@@ -1,0 +1,6 @@
+content   iAddress                chrome/content/
+locale    iAddress   en-US         chrome/locale/en-US/
+locale    iAddress   it-IT         chrome/locale/it-IT/
+
+overlay chrome://messenger/content/messengercompose/messengercompose.xul chrome://iAddress/content/overlay.xul
+

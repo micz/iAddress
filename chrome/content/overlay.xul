@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="chrome://global/skin/" ?>
+<!DOCTYPE overlay SYSTEM "chrome://iAddress/locale/overlay.dtd">
+
+<overlay id="iAddress-browser-overlay"
+ xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<script type="application/x-javascript"
+  src="chrome://iAddress/content/overlay.js" />
+
+<stringbundleset id="stringbundleset">
+  <stringbundle id="iAddress-string-bundle"
+    src="chrome://iAddress/locale/overlay.properties" />
+</stringbundleset>
+
+</overlay>
